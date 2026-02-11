@@ -1,0 +1,4 @@
+repository "My3dgame/My3dgamethicc@2475196316162@cloud"
+  path "/"
+    br "/main"
+    co "/main"
